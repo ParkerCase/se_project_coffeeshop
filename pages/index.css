@@ -246,13 +246,13 @@
   opacity: 70%;
 }
 
-.form__checkbox {
+.form__checkbox_input {
   height: 20px;
   width: 20px;
   margin-right: 12px;
 }
 
-.form__span_checkbox {
+.form__checkbox {
   display: flex;
   margin: auto;
 }
