@@ -247,12 +247,12 @@
 }
 
 .form__input_checkbox {
-  display: flex;
-  margin: auto;
-}
-
-.form__checkbox {
   height: 20px;
   width: 20px;
   margin-right: 12px;
+}
+
+.form__checkbox {
+  display: flex;
+  margin: auto;
 }
