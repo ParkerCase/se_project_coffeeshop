@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- For future updates to this project, I would like to add hover-over nutrition labels for the menu items. I find that in modern society, many are intrigued by the specifics of what they're consuming, and this would greatly benefit many people.
+- I would like to expand on the recipes section, implementing baked goods and their tutorials, as well as a "make it at home" section.
