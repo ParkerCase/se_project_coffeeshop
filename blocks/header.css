@@ -71,3 +71,7 @@
 .header__paragraph {
   margin: 0;
 }
+
+.header__paragraph:last-child {
+  align-self: flex-end;
+}

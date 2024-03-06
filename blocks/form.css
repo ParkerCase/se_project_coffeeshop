@@ -3,6 +3,8 @@
   flex-direction: column;
   width: 385px;
   border: none;
+  margin: 0 0;
+  padding: 0 0;
 }
 
 .form__label {
@@ -25,6 +27,7 @@
   margin-bottom: 32px;
   border-style: solid;
   border-color: #838383;
+  border-width: 1px;
   box-sizing: border-box;
 }
 
@@ -51,6 +54,7 @@
 
 .form__button:hover {
   opacity: 70%;
+  transition: ease-in-out 0.3s;
 }
 
 .form__checkbox {
